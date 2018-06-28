@@ -1,0 +1,30 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+# smungs
+
+An R package containing example spreadsheets to accompany the online book [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/).
+
+The package provides file paths to the example spreadsheets installed locally on your computer.
+
+```{r example}
+smungs::ozmarriage
+```
+
+## Installation
+
+``` r
+# install.packages("devtools") # If it isn't already installed
+devtools::install_github("nacnudus/smungs")
+```
