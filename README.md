@@ -12,7 +12,7 @@ locally on your computer.
 
 ``` r
 smungs::ozmarriage
-#> [1] ""
+#> [1] "/home/nacnudus/R/x86_64-pc-linux-gnu-library/3.5/smungs/extdata/ozmarriage.xlsx"
 ```
 
 ## Installation
