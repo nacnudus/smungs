@@ -8,9 +8,9 @@
 \title{Crime in the USA}
 \format{An object of class \code{character} of length 1.}
 \source{
-[Table 2](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-2)
+\href{https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-2}{Table 2}
 
-[Table 3](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-3)
+\href{https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-3}{Table 3}
 }
 \usage{
 us_crime_2

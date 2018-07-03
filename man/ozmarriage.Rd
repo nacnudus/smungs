@@ -6,8 +6,7 @@
 \title{Data from the 2017 Australian Marriage Survey}
 \format{An object of class \code{character} of length 1.}
 \source{
-[Australian Bureau of
-Statistics](http://www.abs.gov.au/ausstats/abs@.nsf/mf/1800.0)
+\href{http://www.abs.gov.au/ausstats/abs@.nsf/mf/1800.0}{Australian Bureau ofStatistics}
 }
 \usage{
 ozmarriage
