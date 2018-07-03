@@ -6,7 +6,8 @@
 #'
 #' @source
 #'
-#' [Australian Bureau of Statistics](http://www.abs.gov.au/ausstats/abs@.nsf/mf/1800.0)
+#' Australian Bureau of Statistics:
+#' http://www.abs.gov.au/ausstats/abs@.nsf/mf/1800.0
 #'
 #' @export
 ozmarriage <- system.file("extdata", "ozmarriage.xlsx", package = "smungs")
