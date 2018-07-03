@@ -6,7 +6,8 @@
 \title{School Vaccination Coverage in the USA}
 \format{An object of class \code{character} of length 1.}
 \source{
-\href{https://www.cdc.gov/vaccines/imz-managers/coverage/schoolvaxview/data-reports/vacc-coverage.html}{Centers for Disease Control andPrevention}
+\href{https://www.cdc.gov/vaccines/imz-managers/coverage/schoolvaxview/data-reports/vacc-coverage.html}{Centers for Disease Control and Prevention}
+
 The included data is the 2009 to 2015/16 trend report, obtained in July 2017,
 and convereted to xlsx format.  The original source has been superceded and
 is no longer available.
