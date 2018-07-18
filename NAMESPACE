@@ -2,6 +2,7 @@
 
 export(groundwater)
 export(math)
+export(cashflows)
 export(ozmarriage)
 export(toronto_transit)
 export(us_crime_2)
