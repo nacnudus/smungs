@@ -5,7 +5,8 @@
 #'
 #' @source
 #'
-#' TODO
+#' Davis Vaughan
+#' https://github.com/DavisVaughan/tidying-excel-cashflows-blog-companion
 #'
 #' @export
 cashflows <- system.file("extdata", "cashflows.xlsx", package = "smungs")

@@ -6,7 +6,8 @@
 \title{Fake Cashflow Data}
 \format{An object of class \code{character} of length 1.}
 \source{
-TODO
+Davis Vaughan
+https://github.com/DavisVaughan/tidying-excel-cashflows-blog-companion
 }
 \usage{
 cashflows
