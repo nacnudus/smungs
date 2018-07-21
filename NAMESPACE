@@ -2,8 +2,8 @@
 
 export(cashflows)
 export(groundwater)
-export(math)
 export(ozmarriage)
+export(school)
 export(toronto_transit)
 export(us_crime_2)
 export(us_crime_3)
